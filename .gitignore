@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+node_modules
+
+# Build output
+dist/
+
+# Local environment
+.env
+.env.local
+
+# Vite and editor
+.vscode/
+.DS_Store

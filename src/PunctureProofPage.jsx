@@ -18,7 +18,7 @@ const PunctureProofPage = () => {
     const currentYear = new Date().getFullYear();
 
     return (
-        <div className="relative overflow-hidden text-white bg-[#0a0a0a]">
+        <div className="relative overflow-hidden text-white bg-[#171717]">
         {/* 🔥 Fixed LightRays Background */}
         <div
             style={{
